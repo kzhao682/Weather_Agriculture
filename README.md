@@ -57,4 +57,3 @@ We'll work in groups for brainstorming and design, and code sharing will be high
 This project will really give you the freedom to challenge yourself, no matter your skill level. Find your boundaries, meet them, and push them a little further.
 
 We are very excited to see what you will learn and do for Project Luther!
-# Weather_Agriculture
